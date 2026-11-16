@@ -13,6 +13,10 @@ A public catalog of tools that work with AI agents, a read-only [MCP server](htt
 - Apify Store: [`samgov-tools`](https://apify.com/samgov-tools) (Actors listed below)
 - GitHub: [agentready-tools](https://github.com/agentready-tools) · [agentready-tools/skills](https://github.com/agentready-tools/skills)
 - X: [@AgentReadyTools](https://x.com/AgentReadyTools)
+- Reddit: [u/AgentReadyTools](https://www.reddit.com/user/AgentReadyTools)
+- dev.to: [agentreadytools](https://dev.to/agentreadytools)
+- Substack: [agentreadytools.substack.com](https://agentreadytools.substack.com)
+- Examples: [agentready-tools/skills/examples](https://github.com/agentready-tools/skills/tree/main/examples)
 
 In Claude Code, add the plugin marketplace and install the skill:
 
